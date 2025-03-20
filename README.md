@@ -44,6 +44,8 @@ Java / Spring / json / Eclipse
 <br />
 담당 기능: DB 설계 및 ERD 제작, 회원가입, 로그인, 마이페이지
 <br />
+참여율 : 35%
+<br />
 <br />
 ## 📄 프로젝트 ppt
 [팀프로젝트_WITHJO.pptx](https://github.com/jjangbogun/WITHJO/blob/main/%EB%AC%B8%EC%84%9C/PPT/%ED%95%A8%EA%BB%98%ED%95%B4jo.pptx)
